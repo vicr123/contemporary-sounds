@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Contemporary
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
